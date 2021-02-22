@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactapp/static/css/main.bff1c4ca.chunk.css",
+    "main.js": "/reactapp/static/js/main.eeb172d2.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.eeb172d2.chunk.js.map",
+    "runtime-main.js": "/reactapp/static/js/runtime-main.3e776326.js",
+    "runtime-main.js.map": "/reactapp/static/js/runtime-main.3e776326.js.map",
+    "static/js/2.a5519c53.chunk.js": "/reactapp/static/js/2.a5519c53.chunk.js",
+    "static/js/2.a5519c53.chunk.js.map": "/reactapp/static/js/2.a5519c53.chunk.js.map",
+    "static/js/3.1c083ae5.chunk.js": "/reactapp/static/js/3.1c083ae5.chunk.js",
+    "static/js/3.1c083ae5.chunk.js.map": "/reactapp/static/js/3.1c083ae5.chunk.js.map",
+    "index.html": "/reactapp/index.html",
+    "static/css/main.bff1c4ca.chunk.css.map": "/reactapp/static/css/main.bff1c4ca.chunk.css.map",
+    "static/js/2.a5519c53.chunk.js.LICENSE.txt": "/reactapp/static/js/2.a5519c53.chunk.js.LICENSE.txt",
+    "static/media/bleach1.930f6fbc.jpeg": "/reactapp/static/media/bleach1.930f6fbc.jpeg",
+    "static/media/bleach2.30f9ac56.jpg": "/reactapp/static/media/bleach2.30f9ac56.jpg",
+    "static/media/dragonball1.da4075c2.jpg": "/reactapp/static/media/dragonball1.da4075c2.jpg",
+    "static/media/dragonball2.84647630.jpg": "/reactapp/static/media/dragonball2.84647630.jpg",
+    "static/media/naruto1.ac14e001.jpg": "/reactapp/static/media/naruto1.ac14e001.jpg",
+    "static/media/naruto2.afba1ab9.png": "/reactapp/static/media/naruto2.afba1ab9.png",
+    "static/media/one-piece1.24240c37.jpg": "/reactapp/static/media/one-piece1.24240c37.jpg",
+    "static/media/one-piece2.7bb9b53b.jpg": "/reactapp/static/media/one-piece2.7bb9b53b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e776326.js",
+    "static/js/2.a5519c53.chunk.js",
+    "static/css/main.bff1c4ca.chunk.css",
+    "static/js/main.eeb172d2.chunk.js"
+  ]
+}

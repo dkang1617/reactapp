@@ -1,0 +1,120 @@
+.parent{
+	display: grid;
+	padding: 1%;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-column-gap: 1%;
+	grid-row-gap: 1%;	
+}
+
+/* from tutorials looking up dynamic rows in css https://www.youtube.com/watch?v=68O6eOGAGqA */
+@media only screen and (max-width: 1200px) {
+	.parent{
+		grid-template-columns:1fr 1fr 1fr;
+		grid-column-gap: 1%;
+		grid-row-gap: 1%;
+	}
+}
+
+@media only screen and (max-width: 900px) {
+	.parent{
+		grid-template-columns:1fr 1fr;
+		grid-column-gap: 1%;
+		grid-row-gap: 1%;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.parent{
+		grid-template-columns:1fr;
+		grid-column-gap: 1%;
+		grid-row-gap: 1%;
+	}
+}
+
+/* from linked website on instructions */
+.child{
+	margin: auto;
+}
+
+.header {
+	text-align: center;
+}
+
+.tabs{
+	background-color: pink;
+	font-size: 20px;
+	padding: 13px;
+	text-align: center;
+}
+
+.tabs a{
+	color: green;
+	padding: 14px;
+	text-decoration: none;
+}
+
+.tabs a:hover {
+	background-color: skyblue;
+}
+
+.tabs a:active {
+	text-decoration: underline;
+}
+
+.current {
+	background-color: skyblue;
+}
+
+table,td,th,tr{
+	padding: 13px;
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+@media screen and (max-width: 2500px) {
+	table{
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 900px) {
+	table{
+		width: 75%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	table{
+		width: 50%;
+	}
+}
+
+.tabtabtab{
+	padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
